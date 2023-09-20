@@ -27,3 +27,6 @@ for pic in pics:
                     im.save(os.path.join(path, outfile))
             except OSError:
                 print("cannot convert", pic)
+
+# JB-Rockstar
+# gokhanbalik8@gmail.com
